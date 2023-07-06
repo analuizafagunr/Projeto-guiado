@@ -1,0 +1,16 @@
+.sobreContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.imagemEstilizada {
+  margin-right: 10px; /* Adicione margem à direita para separar a imagem do texto */
+}
+
+.sobreDescription {
+  font-size: 1rem;
+  margin: 10px;
+  color:black ;
+  text-align: left;
+}
